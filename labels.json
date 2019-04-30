@@ -71,13 +71,6 @@
     ]
   },
   {
-    "name": "status: fixed",
-    "color": "00ee88",
-    "aliases": [
-      "fixed"
-    ]
-  },
-  {
     "name": "status: good first issue",
     "color": "bfe5bf",
     "aliases": [
