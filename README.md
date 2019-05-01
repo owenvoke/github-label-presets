@@ -20,7 +20,7 @@ Run the following to set labels for a repository:
 export GITHUB_ACCESS_TOKEN=''
 
 # To perform a dry-run
-github-label-sync --labels https://git.io/fjZcw -d pxgamer/repo-name
+github-label-sync --labels https://git.io/fjZcw pxgamer/repo-name -d
 
 # To perform a real run
 github-label-sync --labels https://git.io/fjZcw pxgamer/repo-name
