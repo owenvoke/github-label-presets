@@ -1,4 +1,4 @@
-# github-label-presets
+# GitHub Label Presets
 
 [![Software License][ico-license]](LICENSE.md)
 
@@ -20,15 +20,15 @@ Run the following to set labels for a repository:
 export GITHUB_ACCESS_TOKEN=''
 
 # To perform a dry-run
-github-label-sync --labels https://git.io/fjZcw pxgamer/repo-name -d
+github-label-sync --labels https://git.io/JvRJP owenvoke/repo-name -d
 
 # To perform a real run
-github-label-sync --labels https://git.io/fjZcw pxgamer/repo-name
+github-label-sync --labels https://git.io/JvRJP owenvoke/repo-name
 ```
 
 ## Credits
 
-- [pxgamer][link-author]
+- [Owen Voke][link-author]
 - [All Contributors][link-contributors]
 
 ## License
@@ -38,5 +38,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 
 [link-github-label-sync]: https://github.com/Financial-Times/github-label-sync#command-line-interface
-[link-author]: https://github.com/pxgamer
+[link-author]: https://github.com/owenvoke
 [link-contributors]: ../../contributors
