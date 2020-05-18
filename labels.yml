@@ -1,38 +1,46 @@
 - name: 'semver: patch'
+  description: ''
   color: f279ad
 
 - name: 'semver: minor'
+  description: ''
   color: 00ceff
 
 - name: 'semver: major'
+  description: ''
   color: b60205
   aliases:
   - breaking
   - breaking-change
 
 - name: 'type: bug'
+  description: ''
   color: d73a4a
   aliases:
   - bug
 
 - name: 'type: discussion'
+  description: ''
   color: cc317c
   aliases:
   - discussion
 
 - name: 'type: documentation'
+  description: ''
   color: 207de5
   aliases:
   - docs
   - documentation
 
 - name: 'type: enhancement'
+  description: ''
   color: a2eeef
   aliases:
   - feature
   - enhancement
 
 - name: 'type: maintenance'
+  description: ''
   color: fbca04
   aliases:
   - maintenance
@@ -42,32 +50,38 @@
   - dependencies
 
 - name: 'type: question'
+  description: ''
   color: 7057ff
   aliases:
   - question
 
 - name: 'status: duplicate'
+  description: ''
   color: cfd3d7
   aliases:
   - duplicate
 
 - name: 'status: good first issue'
+  description: ''
   color: bfe5bf
   aliases:
   - good-first-issue
   - good first issue
 
 - name: 'status: help wanted'
+  description: ''
   color: 008672
   aliases:
   - help wanted
 
 - name: 'status: invalid'
+  description: ''
   color: '990000'
   aliases:
   - invalid
 
 - name: 'status: wontfix'
+  description: ''
   color: cccccc
   aliases:
   - wontfix
