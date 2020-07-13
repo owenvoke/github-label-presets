@@ -55,6 +55,12 @@
   aliases:
   - question
 
+- name: 'type: security'
+  description: ''
+  color: ee0701
+  aliases:
+  - security
+
 - name: 'status: duplicate'
   description: ''
   color: cfd3d7
