@@ -1,10 +1,4 @@
-- name: 'semver: patch'
-  description: ''
-  color: f279ad
-
-- name: 'semver: minor'
-  description: ''
-  color: 00ceff
+# Semantic Versioning (https://semver.org)
 
 - name: 'semver: major'
   description: ''
@@ -12,6 +6,50 @@
   aliases:
   - breaking
   - breaking-change
+
+- name: 'semver: minor'
+  description: ''
+  color: 00ceff
+
+- name: 'semver: patch'
+  description: ''
+  color: f279ad
+
+# Status
+
+- name: 'status: duplicate'
+  description: ''
+  color: cfd3d7
+  aliases:
+  - duplicate
+
+- name: 'status: good first issue'
+  description: ''
+  color: bfe5bf
+  aliases:
+  - good-first-issue
+  - good first issue
+
+- name: 'status: help wanted'
+  description: ''
+  color: 008672
+  aliases:
+  - help wanted
+
+- name: 'status: invalid'
+  description: ''
+  color: '990000'
+  aliases:
+  - invalid
+
+- name: 'status: wontfix'
+  description: ''
+  color: cccccc
+  aliases:
+  - wontfix
+  - wont-fix
+
+# Type
 
 - name: 'type: bug'
   description: ''
@@ -60,35 +98,3 @@
   color: ee0701
   aliases:
   - security
-
-- name: 'status: duplicate'
-  description: ''
-  color: cfd3d7
-  aliases:
-  - duplicate
-
-- name: 'status: good first issue'
-  description: ''
-  color: bfe5bf
-  aliases:
-  - good-first-issue
-  - good first issue
-
-- name: 'status: help wanted'
-  description: ''
-  color: 008672
-  aliases:
-  - help wanted
-
-- name: 'status: invalid'
-  description: ''
-  color: '990000'
-  aliases:
-  - invalid
-
-- name: 'status: wontfix'
-  description: ''
-  color: cccccc
-  aliases:
-  - wontfix
-  - wont-fix
