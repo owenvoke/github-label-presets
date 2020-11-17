@@ -20,10 +20,10 @@ Run the following to set labels for a repository:
 export GITHUB_ACCESS_TOKEN=''
 
 # To perform a dry-run
-github-label-sync --labels https://raw.githubusercontent.com/owenvoke/github-label-presets/master/labels.yml owenvoke/repo-name -d
+github-label-sync --labels https://raw.githubusercontent.com/owenvoke/github-label-presets/main/labels.yml owenvoke/repo-name -d
 
 # To perform a real run
-github-label-sync --labels https://raw.githubusercontent.com/owenvoke/github-label-presets/master/labels.yml owenvoke/repo-name
+github-label-sync --labels https://raw.githubusercontent.com/owenvoke/github-label-presets/main/labels.yml owenvoke/repo-name
 ```
 
 ## Credits
