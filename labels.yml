@@ -15,6 +15,24 @@
   description: ''
   color: f279ad
 
+# Priority
+
+- name: 'priority: urgent'
+  description: ''
+  color: ef4444
+
+- name: 'priority: high'
+  description: ''
+  color: b91c1c
+
+- name: 'priority: standard'
+  description: ''
+  color: f59e0b
+
+- name: 'priority: low'
+  description: ''
+  color: 10b981
+
 # Status
 
 - name: 'status: duplicate'
