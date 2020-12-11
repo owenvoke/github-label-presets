@@ -19,7 +19,7 @@
 
 - name: 'priority: urgent'
   description: ''
-  color: ef4444
+  color: ee0701
 
 - name: 'priority: high'
   description: ''
